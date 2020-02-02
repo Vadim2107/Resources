@@ -1,2 +1,2 @@
-# Resources
+# resources
 Resources for site layout
